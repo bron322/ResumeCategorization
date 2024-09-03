@@ -7,6 +7,7 @@ This project leverages machine learning to categorize resumes efficiently. Using
 ## Dataset
 The dataset used for this project is sourced from Kaggle: [Updated Resume Dataset](https://www.kaggle.com/datasets/jillanisofttech/updated-resume-dataset). This dataset contains a diverse set of resumes and is used to train and evaluate the model’s performance.
 
+## Try out
 Try out my project using this [link](https://bron322-resumecategorization-app-nxjmvg.streamlit.app/)
 
 ## Technologies
